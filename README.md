@@ -1,3 +1,3 @@
 # pwskillsNodejsAssignment
-npm install  
-Run npm start
+install dependencies => npm install  
+Run=> npm start
